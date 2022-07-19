@@ -1,2 +1,2 @@
 # studies-instagrampage
-Projeto para estudo de replicação da página inicial do Instagram
+Projeto para estudo de recriação da página inicial do Instagram
